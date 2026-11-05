@@ -1,5 +1,13 @@
 # HANSKA System Monitor
 
+## Screenshots
+
+![System Monitor overview showing CPU, RAM, swap, and GPU metrics](assets/system-monitor-overview.png)
+
+![System Monitor process view showing process CPU and memory use](assets/system-monitor-processes.png)
+
+![System Monitor components view showing detected hardware and GPU metrics](assets/system-monitor-components.png)
+
 A lightweight desktop monitor for Ubuntu and Linux. It provides a Spanish-language Tkinter interface for local CPU, memory, process, temperature, and available GPU readings.
 
 ## Features
